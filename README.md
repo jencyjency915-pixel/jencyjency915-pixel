@@ -14,8 +14,10 @@ I'm a developer passionate about building web applications and solving problems.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Streak
 
-![Jency's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jencyjency915-pixel&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=jencyjency915-pixel&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jencyjency915-pixel&layout=compact&theme=tokyonight)
+### 🏆 Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jencyjency915-pixel&theme=onedark&column=3)
+
