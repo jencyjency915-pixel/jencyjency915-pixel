@@ -14,10 +14,13 @@ I'm a developer passionate about building web applications and solving problems.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 GitHub Activity & Streak
+### 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jencyjency915-pixel&theme=tokyonight&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jencyjency915-pixel&theme=react)
 
-### 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jencyjency915-pixel&theme=onedark&column=3)
+---
 
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jencyjency915-pixel)
