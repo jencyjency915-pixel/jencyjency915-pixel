@@ -4,8 +4,8 @@ I'm a developer passionate about building web applications and solving problems.
 
 - 🛠️ *Languages & Tools:* Python, JavaScript, React, HTML, CSS
 - 🚀 *Currently Working On:* Web Development Projects
-- 🌐 *Portfolio:* [Link to your portfolio site]
-- 📫 *How to reach me:* [Your LinkedIn Link or Email]
+- 🌐 *Portfolio:* https://tiiny.site
+- 📫 *Connect with me:* https://linkedin.com
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,13 +14,8 @@ I'm a developer passionate about building web applications and solving problems.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 GitHub Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jencyjency915-pixel&theme=react)
-
 ---
 
 ### 🌐 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jencyjency915-pixel)
