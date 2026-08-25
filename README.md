@@ -16,8 +16,6 @@ I'm a developer passionate about building web applications and solving problems.
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jencyjency915-pixel&show_icons=true&theme=radial&hide_border=true" alt="Jency's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jencyjency915-pixel&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+![Jency's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jencyjency915-pixel&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jencyjency915-pixel&layout=compact&theme=tokyonight)
