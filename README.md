@@ -13,3 +13,11 @@ I'm a developer passionate about building web applications and solving problems.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+```
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jencyjency915-pixel&show_icons=true&theme=radial&hide_border=true" alt="Jency's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jencyjency915-pixel&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+```
